@@ -1,0 +1,21 @@
+# 🚚 AWID - Application de Transport de Marchandises
+
+**AWID** est une application mobile/web pour les transporteurs, leur permettant de :
+- Gérer les colis (photos, poids, contenu, adresse de livraison).
+- Valider la réception et la livraison en Algérie.
+- Suivre les livraisons en temps réel.
+- **Abonnement** : 20-30€/mois pour accéder à l’application.
+
+---
+## 🛠️ Technologies Utilisées
+- **Frontend** : Flutter (mobile) / React.js (web)
+- **Backend** : Firebase (Auth, Firestore, Storage)
+- **Hébergement** : Firebase Hosting / Vercel
+- **Base de données** : Firebase Firestore (pour les colis)
+
+---
+## 🚀 Pour Commencer
+1. **Cloner le dépôt** :
+   ```bash
+   git clone https://github.com/awid01/awid-app.git
+   cd awid-app
